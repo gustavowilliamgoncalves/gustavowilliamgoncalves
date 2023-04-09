@@ -1,6 +1,6 @@
 ## Olá, eu sou o Gustavo William ou Ibireté 👋
 
-- 🔭 Estudando front-end.
+- 🔭 Quero me tornar um dev front-end.
 - 🌱 Estudando javaScript.
 - 💬 Pergunte-me sobre tudo.
 - 📫 Contate-me no email: <a href="mailto:gustavowilliam2004@gmail.com.">gustavowilliam2004@gmail.com.</a>
